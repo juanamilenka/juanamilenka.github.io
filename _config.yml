@@ -1,0 +1,21 @@
+# Base configs
+baseurl: ""
+url: "https://juanamilenka.github.io"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: 
+
+# UI configs
+title: "Photography by Juana Milenka Figueroa"
+subtitle: "Saco Fotos por diversion!"
+author: "Juana Figueroa"
+bio: "Boliviana de nacimiento, psicologa de hobby, crio tortugas y cubro cumpleanos, bautizos o los eventos que sean posibles."
+publicise: "Contactame al 44301728 - Cochabamba - Bolivia"
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/ramswaroop"
+  twitter: "https://www.twitter.com/ramswarooppatra"
+  instagram: "https://www.instagram.com/ramswarooppatra"
+  dribbble: "https://dribbble.com/ramswaroop"
+  linkedin: "https://in.linkedin.com/in/ramswarooppatra"
+  github: "https://www.github.com/ramswaroop"
